@@ -24,8 +24,8 @@ Minha solução de codificação do desafio proposto pelo Frontend Mentor, utili
 
 O desafio foi construir este projeto e fazê-lo parecer o mais próximo possível do design. Os usuários devem ser capazes de:
 
-- Vizualizar o layout ideal tanto para dispositivos mobiles quanto para desktops;
-- Vizualizar os estados de foco para elementos interativos. 
+- Visualizar o layout ideal tanto para dispositivos mobiles quanto para desktops;
+- Visualizar os estados de foco para elementos interativos. 
 
 ### Screenshot
 
