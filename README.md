@@ -24,11 +24,11 @@ O desafio foi construir este projeto e fazê-lo parecer o mais próximo possíve
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Projeto Product Preview](https://user-images.githubusercontent.com/105252003/178893023-a868b572-df8b-46dd-8cd6-13e5bd71925f.jpg)
 
 ### Links
 
-- URL da solução: [Index](https://your-solution-url.com)
+- URL da solução: [Index]([https://your-solution-url.com](https://github.com/beatrizslan/Projeto-Product-Preview-Card/blob/main/docs/index.html))
 - URL do site: [Site](https://your-live-site-url.com)
 
 ## Meu processo
@@ -42,7 +42,7 @@ O desafio foi construir este projeto e fazê-lo parecer o mais próximo possíve
 
 ### O que eu aprendi
 
-- Entender a funcionalidade das tags <picture> e <source> para imagens flexíveis;
+- Entender a funcionalidade das tags picture e source para imagens flexíveis;
 - Importar fontes externas;
 - Utilizar variáveis no CSS;
 - Trabalhar com o flexbox;
@@ -78,7 +78,7 @@ body {
 ### Recursos úteis
 
 - [Guia Completo do Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Este é um artigo incrível que me ajudou a entender melhor de como funciona o Flexbox e quais são suas propriedades. 
-- [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) - Este é um outro artigo do mesmo autor que também foi muito importante para eu ter uma melhor noção sobre as dimensões de telas dos dispositivos.
+- [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/) - Este é um outro artigo do mesmo autor que também foi muito importante para eu ter uma melhor noção sobre as dimensões de telas dos dispositivos móveis.
   
 
 ## Considerações Finais
