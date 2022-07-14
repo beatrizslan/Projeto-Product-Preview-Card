@@ -29,7 +29,7 @@ O desafio foi construir este projeto e fazê-lo parecer o mais próximo possíve
 ### Links
 
 - URL da solução: [Index]([https://your-solution-url.com](https://github.com/beatrizslan/Projeto-Product-Preview-Card/blob/main/docs/index.html))
-- URL do site: [Site](https://your-live-site-url.com)
+- URL do site: [Site](https://beatrizslan.github.io/Projeto-Product-Preview-Card/)
 
 ## Meu processo
 
@@ -85,7 +85,7 @@ body {
 
 ### Autor
 
-- Website - [Beatriz Slan](https://www.your-site.com)
+- Website - [Beatriz Slan](https://beatrizslan.github.io/Projeto-Product-Preview-Card/)
 - Frontend Mentor - [@beatrizslan](https://www.frontendmentor.io/profile/beatrizslan)
 - Linkedin - [in/beatriz-slan](https://www.linkedin.com/in/beatriz-slan-2324a4173/)
 
