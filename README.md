@@ -28,7 +28,7 @@ O desafio foi construir este projeto e fazê-lo parecer o mais próximo possíve
 
 ### Links
 
-- URL da solução: [Index]([https://your-solution-url.com](https://github.com/beatrizslan/Projeto-Product-Preview-Card/blob/main/docs/index.html))
+- URL da solução: [Index](https://github.com/beatrizslan/Projeto-Product-Preview-Card/blob/main/docs/index.html)
 - URL do site: [Site](https://beatrizslan.github.io/Projeto-Product-Preview-Card/)
 
 ## Meu processo
