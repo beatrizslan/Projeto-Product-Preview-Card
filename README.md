@@ -1,4 +1,4 @@
-# Frontend Mentor - Projeto Product Preview Card Component
+# Frontend Mentor - Solução do Projeto Product Preview Card Component
 
 Minha solução de codificação do desafio proposto pelo Frontend Mentor, utilizando o design do projeto [Product Preview Card Component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
